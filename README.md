@@ -13,3 +13,5 @@ This repository contains notes from ECE 2400 discussion sections.
 | 2018-03-05 | Section 5 - Prelim Review                               |
 | 2018-03-19 |[Section 6 - Memory and Valgrind](ece2400-sec06.md)      |
 | 2018-03-26 |[Section 7 - Transitioning to C++](ece2400-sec07.md)     |
+| 2018-04-09 |[Section 8 - Templates and Overloading](ece2400-sec08.md)|
+| 2018-04-23 |[Section 9 - The C++ STL](ece2400-sec09.md)              |
