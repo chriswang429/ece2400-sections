@@ -15,3 +15,4 @@ This repository contains notes from ECE 2400 discussion sections.
 | 2018-03-26 |[Section 7 - Transitioning to C++](ece2400-sec07.md)     |
 | 2018-04-09 |[Section 8 - Templates and Overloading](ece2400-sec08.md)|
 | 2018-04-23 |[Section 9 - The C++ STL](ece2400-sec09.md)              |
+| 2018-04-30 |[Section 10 - pthreads](ece2400-sec10.md)                |
